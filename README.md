@@ -1,2 +1,2 @@
 # MLforphysicist
-Projektarbeit im Rahmen des Seminars Maschinelles Lernen für Physiker
+project in context of seminar Machine learning for physicists 2020
